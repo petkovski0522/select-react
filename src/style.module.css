@@ -81,7 +81,7 @@
 
 .option.highlighted {
   background-color: hsl(200, 100%, 50%);
-  color: black;
+  color: white;
 }
 
 .option-badge {
